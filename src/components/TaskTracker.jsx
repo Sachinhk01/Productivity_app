@@ -68,7 +68,7 @@ function TaskTracker({ onStatsChange }) {
 
   return (
     <section className="widget-card">
-      <h2>Task Tracker</h2>
+      <h2>My Task builder </h2>
 
       {tasks.length > 0 && (
         <div className="progress-wrap">
