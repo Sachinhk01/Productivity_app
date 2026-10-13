@@ -1,4 +1,4 @@
-# Interactive Productivity & Activity Dashboard for studnets
+# Interactive Productivity & Activity Dashboard for studnets and workings
 
 A single-page React dashboard made of four connected widgets — built to
 demonstrate core React patterns: hooks, lifting state up, side effects with
