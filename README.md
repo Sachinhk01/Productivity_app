@@ -2,7 +2,7 @@
 
 A single-page React dashboard made of four connected widgets — built to
 demonstrate core React patterns: hooks, lifting state up, side effects with
-cleanup, localStorage persistence, and multi-step API calls.
+cleanup, localStorage persistence, and multi-step API calls in the projects.
 
 ## Features
 
