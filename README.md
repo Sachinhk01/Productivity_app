@@ -10,7 +10,7 @@ cleanup, localStorage persistence, and multi-step API calls in the projects.
   greeting and matching icon (🌅 ☀️ 🌇 🌙) that changes based on the hour
 - **Task Tracker** — add, complete, and delete tasks, each with a
   Low/Medium/High priority badge; a live progress bar shows percent
-  complete; saved to `localStorage` so tasks survive a page refresh;
+  complete; saved to `localStorage` so tasks survive a page refresh;.
   reports its completed/total count up to the dashboard header
 - **Daily Quote** — fetches a random quote on load with a skeleton loading
   animation, a "New Quote" button, and error handling
